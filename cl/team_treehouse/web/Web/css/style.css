@@ -1,0 +1,53 @@
+#wrapper {
+  font-family: sans-serif;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.graph {
+  padding: 0;
+  width: 50%;
+  float: left;
+  border-bottom: 1px solid #888;
+}
+
+.graph li {
+  position: relative;
+  list-style: none;
+  border-top: 1px solid #888;
+  clear: both;
+}
+
+
+.fruit {
+  display: block;
+  padding: 1em;
+  position: relative;
+  color: #222;
+  background: #66EE99;
+  font-weight: bold;
+  float: left;
+}
+
+.total {
+  text-decoration: underline;
+  margin-top: 15px;
+  float: right;
+  padding-right: 15px;
+}
+
+table {
+  padding-left: 35px;
+  border-spacing: 1.85em;
+  font-style: oblique;
+}
+
+caption {
+  font-family: sans-serif;
+  font-size: 1.85em;
+}
+
+th {
+  font-family: monospace;
+  font-size: 1.55em;
+}
